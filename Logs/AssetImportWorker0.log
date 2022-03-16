@@ -346,3 +346,4 @@ Received Import Request.
 Start importing Assets/Original Bricks Textures/Bricks Texture 01/Bricks Texture 01 normal.tga using Guid(36d8eefb8ffd6c44184232f47bf0b564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061c1f88bce44a8d6097e5baace08db1') in 0.009033 seconds 
   Import took 0.012164 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
